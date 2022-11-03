@@ -1,4 +1,4 @@
-module github.com/GIT_USER_ID/GIT_REPO_ID
+module github.com/philip-ellis-sp/go-sdk
 
 go 1.13
 
