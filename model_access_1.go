@@ -36,6 +36,7 @@ func Entitlement1AsAccess1(v *Entitlement1) Access1 {
 	}
 }
 
+
 // Role1AsAccess1 is a convenience function that returns Role1 wrapped in Access1
 func Role1AsAccess1(v *Role1) Access1 {
 	return Access1{
